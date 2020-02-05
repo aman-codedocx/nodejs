@@ -1,7 +1,5 @@
-console.log('---->>>>')
-
-const URL = 'http://localhost:3000';
-//const URL = ''
+//const URL = 'http://localhost:3000';
+const URL = ''
 
 const form = document.querySelector('form.find-location')
 const searchInput = document.querySelector('.find-location input#search')
